@@ -1,4 +1,6 @@
-import './style.css';
+import 'modern-normalize/modern-normalize.css';
+
+import './assets/styles/base.css';
 
 const app = document.querySelector<HTMLDivElement>('#app')!;
 
